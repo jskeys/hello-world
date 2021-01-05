@@ -1,4 +1,4 @@
-me: make-master
+name: make-master
 
 on:
   push:
